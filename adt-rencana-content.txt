@@ -3,7 +3,10 @@ RENCANA ADIT
 - Belajar Bahasa Baru
 - Menonton
 - Upgrade Skill Coding
+  ^ Tailwindcss
+  ^ Bootstrap
 - Rajin Membaca Buku
 - Olah Raga
   * Lari
   * Main Bola
+  * Pull Up
