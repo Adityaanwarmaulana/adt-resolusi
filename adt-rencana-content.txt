@@ -5,6 +5,7 @@ RENCANA ADIT
 - Menonton
 - Upgrade Skill Coding
   ^ Framework PHP
+  ^ Framework React
 - Rajin Membaca Buku
 - Olah Raga
   * Lari
