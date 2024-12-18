@@ -1,12 +1,12 @@
 RENCANA ADIT
 
 - Belajar Bahasa Baru
-  ^ Inggris
 - Menonton
 - Upgrade Skill Coding
   ^ Framework PHP
+  ^ Framework Js
   ^ Framework React
-- Rajin Membaca Buku
+- Konsisten Membaca Buku
 - Olah Raga
   * Lari
   * Main Bola
